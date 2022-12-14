@@ -1,1 +1,1 @@
-[embed] Real_Time_Weather_Prediction.pdf [/embed]
+[embed] https://github.com/aryanjain27april/Real-Time-Weather-Prediction/blob/main/Real_Time_Weather_Prediction.pdf [/embed]
